@@ -1,5 +1,5 @@
 # 单例模式
-· 
+`
 class Singleton
 {
   private static $_instance;
@@ -24,4 +24,4 @@ print_r($firstProduct->mix);
 // example
 print_r($secondProduct->mix);
 // example
-· 
+`
