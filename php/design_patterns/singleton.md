@@ -26,3 +26,4 @@
     print_r($secondProduct->mix);
     // example
 >
+[PHP 单例模式优点意义及如何实现](https://yq.aliyun.com/ziliao/9254)
